@@ -9,7 +9,6 @@ A personal portfolio website built using **Flask**, **HTML**, and **CSS** to sho
 - Clean and responsive layout
 - About section with education and skills
 - Projects section to highlight my work
-- Contact form that sends messages to my email using SMTP
 
 ---
 
@@ -18,7 +17,6 @@ A personal portfolio website built using **Flask**, **HTML**, and **CSS** to sho
 - Python (Flask)
 - HTML5
 - CSS3
-- Flask-Mail (for sending emails)
 
 ---
 
